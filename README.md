@@ -6,7 +6,7 @@ In this project Test Driven Development (TDD) and Behavior Driven Development (B
 
 Licensed under the Apache License. See [LICENSE](/LICENSE)
 
-## Author
+## Original Author
 
 John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
 
